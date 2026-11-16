@@ -1,7 +1,7 @@
 /* Ario service worker: lets the site install as an app (desktop / phone) and open fast.
    Same-origin GET only; Supabase / other servers are never cached. Pages and code: network first, cache when offline.
    Pictures, fonts: cache first. Audio is not cached (large). */
-var V='ario-pwa-1',SHELL=['./','index.html','css/app.css?v=425','js/app.js?v=425','fonts/Vazirmatn.woff2','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png'];
+var V='ario-pwa-1',SHELL=['./','index.html','css/app.css?v=432','js/app.js?v=432','fonts/Vazirmatn.woff2','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png'];
 self.addEventListener('install',function(e){
   e.waitUntil(caches.open(V).then(function(c){return Promise.all(SHELL.map(function(u){return c.add(u).catch(function(){})}))}).then(function(){return self.skipWaiting()}));
 });

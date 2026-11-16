@@ -3339,6 +3339,31 @@ Object.assign(__AR,{
 });
 var CHAN_POSTS=[
 /*POSTS*/
+{id:'2026-11-16-er5v',d:'2026-11-16',v:"v25",k:'new',
+ t:"دو نوع پاک‌کن روی تخته",
+ x:"حالا پاک‌کن تخته دو حالت دارد. حالت معمولی مثل قبل است و هرجا بکشی پاک می‌شود. در حالت خط‌به‌خط فقط به یک خط دست بزنی، همان خط کامل پاک می‌شود. با دوبار زدن روی پاک‌کن بین این دو حالت جابه‌جا می‌شوی و آیکن هم عوض می‌شود. خط‌هایی را که پاک کرده‌ای با دکمه‌ی برگرداندن می‌توانی پس بگیری. هرکس خط‌های خودش را پاک می‌کند و سازنده‌ی لایو همه‌ی خط‌ها را.",
+ en:{t:"Two erasers on the board",x:"The board eraser now has two modes. The normal one is as before and rubs out whatever you drag over. In stroke mode, touching a line erases that whole line. Double-tap the eraser to switch between them; the icon changes. Undo brings back lines you erased. Everyone erases their own lines, and the host can erase all of them."},
+ ar:{t:"نوعان من الممحاة على السبورة",x:"أصبحت لممحاة السبورة حالتان. العادية كما كانت وتمسح كل ما تمرّ عليه. وفي حالة الخطوط يكفي أن تلمس خطاً ليُمسح كاملاً. انقر مرتين على الممحاة للتبديل بين الحالتين وتتغيّر الأيقونة. يعيد زر التراجع الخطوط التي مسحتها. يمسح كل شخص خطوطه، ويستطيع مضيف البث مسح كل الخطوط."}},
+{id:'2026-11-16-ar4w',d:'2026-11-16',v:"v24",k:'new',
+ t:"فلش روی تخته (مثل خط محور)",
+ x:"کنار رنگ‌ها یک دکمه‌ی فلش آمده. با آن روی تخته خط فلش‌دار می‌کشی، مثل محور مختصات. فلش را که بزنی انتخاب می‌شود و دو سرش دایره‌ای می‌شود: سرها را بکش تا بزرگ و کوچک یا کج و راست شود، خود خط را بکش تا جابه‌جا شود. روی فلش دوبار بزن تا هر رنگی بخواهی برایش برداری، یا یک رنگ نوار ابزار را بزن. دکمه‌ی قرمز یا کلید Delete آن را پاک می‌کند. همه‌ی شرکت‌کننده‌ها حرکت و تغییر فلش را همان لحظه می‌بینند.",
+ en:{t:"Arrows on the board (like an axis line)",x:"A new arrow button sits beside the colours. Draw an arrow line with it, like a coordinate axis. Tap an arrow to select it and a circle appears at each end: drag the ends to make it bigger, smaller or turn it, drag the line to move it. Double-tap an arrow to pick any colour for it, or tap a toolbar colour. The red button or the Delete key removes it. Everybody in the live sees the arrow move and change as you do it."},
+ ar:{t:"الأسهم على السبورة (مثل محور الإحداثيات)",x:"أُضيف زر سهم بجانب الألوان. ارسم به خطاً بسهم مثل محور الإحداثيات. اضغط على السهم لتحديده فتظهر دائرة عند كل طرف: اسحب الطرفين لتكبيره أو تصغيره أو تدويره، واسحب الخط لتحريكه. انقر مرتين على السهم لاختيار أي لون له، أو اضغط على لون في شريط الأدوات. يحذفه الزر الأحمر أو مفتاح Delete. يرى كل من في البث تحريك السهم وتغييره لحظة بلحظة."}},
+{id:'2026-11-16-sh9p',d:'2026-11-16',v:"v23",k:'new',
+ t:"اصلاح خودکار شکل‌ها روی تخته",
+ x:"حالا روی تخته‌ی لایو اگر خط راست، دایره، بیضی، مربع، مستطیل یا مثلث بکشی، قلم آن را مرتب می‌کند و برای همه‌ی شرکت‌کننده‌ها هم مرتب نشان داده می‌شود. نوشته‌های کوچک و دست‌خط دست نمی‌خورند. دکمه‌ی دایره و مربع در نوار ابزار آن را روشن و خاموش می‌کند؛ وقتی خاموش است، آخر خط یک لحظه قلم را نگه دار تا شکل مرتب شود.",
+ en:{t:"Shapes made neat on the board",x:"On the live board, when you draw a straight line, a circle, an ellipse, a square, a rectangle or a triangle, the pen neatens it and everyone in the live sees the neat version. Small writing and handwriting are left alone. The circle-and-square button in the toolbar turns this on and off; while it is off, hold the pen still for a moment at the end of a stroke to neaten it."},
+ ar:{t:"ترتيب الأشكال تلقائياً على السبورة",x:"على سبورة البث المباشر، إذا رسمت خطاً مستقيماً أو دائرة أو شكلاً بيضاوياً أو مربعاً أو مستطيلاً أو مثلثاً، يرتّبه القلم ويراه جميع المشاركين مرتباً. لا تتأثر الكتابة الصغيرة والخط اليدوي. يشغّل زر الدائرة والمربع في شريط الأدوات هذه الميزة ويوقفها، وعند إيقافها أبقِ القلم ثابتاً لحظة في نهاية الخط لترتيبه."}},
+{id:'2026-11-16-cl7k',d:'2026-11-16',v:"v22",k:'new',
+ t:"رنگ دلخواه برای قلم تخته",
+ x:"حالا در تخته‌ی لایو روی هر رنگ قلم دوبار بزن تا انتخابگر رنگ باز شود و هر رنگی که خواستی را برداری. رنگ تازه جای همان دایره می‌نشیند، قلم با آن نوشته می‌شود و روی همین گوشی یادش می‌ماند.",
+ en:{t:"Custom pen colours on the board",x:"On the live board, double-tap any pen colour to open the colour picker and choose any colour you like. The new colour takes the place of that circle, the pen writes with it, and this phone remembers it."},
+ ar:{t:"ألوان مخصصة لقلم السبورة",x:"على سبورة البث المباشر، انقر مرتين على أي لون للقلم لفتح منتقي الألوان واختيار اللون الذي تريده. يحلّ اللون الجديد محل تلك الدائرة ويكتب به القلم، ويتذكره هذا الهاتف."}},
+{id:'2026-11-16-zm1b',d:'2026-11-16',v:"v21",k:'new',
+ t:"بزرگنمایی و کوچک‌نمایی تخته و PDF در لایو",
+ x:"حالا در لایو می‌توان تخته و PDFی که رویش باز شده را بزرگ و کوچک کرد: با دو انگشت (چلاندن) یا دکمه‌های + و − پایین تخته. با ابزار «جابه‌جایی» (یا با یک انگشت، اگر فقط تماشا می‌کنی) تخته را بکش. عدد وسط دکمه‌ها اندازه را به ۱۰۰٪ برمی‌گرداند. بزرگنمایی و جابه‌جایی سازنده‌ی لایو برای همه نشان داده می‌شود و همه همان بخش را می‌بینند. شرکت‌کننده‌ها هم می‌توانند برای خودشان زوم کنند، ولی با حرکت بعدی سازنده دوباره با او هماهنگ می‌شوند. با عوض شدن صفحه به اندازه‌ی اول برمی‌گردد.",
+ en:{t:"Zoom in and out on the live board and PDF",x:"In a live you can now zoom the board, and a PDF opened on it, in and out: pinch with two fingers or use the + and − buttons under the board. Drag the board with the Move tool (or with one finger if you are only watching). The number in the middle sets it back to 100%. The host's zoom and moves are shown to everyone, so all see the same part. Others can zoom on their own too, but they fall back in step with the host at the host's next move. It returns to the first size when the page changes."},
+ ar:{t:"التكبير والتصغير على السبورة وملف PDF في البث المباشر",x:"يمكنك الآن تكبير السبورة وملف PDF المفتوح عليها وتصغيرهما أثناء البث المباشر: بإصبعين (القرص) أو بأزرار + و − أسفل السبورة. حرّك السبورة بأداة «التحريك» (أو بإصبع واحد إذا كنت تشاهد فقط). الرقم في الوسط يعيد الحجم إلى 100%. يظهر تكبير مضيف البث وتحريكه للجميع فيرى الكل الجزء نفسه. ويمكن للمشاركين التكبير لأنفسهم أيضاً، لكنهم يعودون إلى مزامنة المضيف عند حركته التالية. ويعود الحجم إلى الأول عند تغيير الصفحة."}},
 {id:'2026-11-15-2gs0',d:'2026-11-15',v:"v20",k:'new',img:'chn-2026-11-15-2gs0.webp',
  t:"جزیره‌ها را هرجا خواستی ببر",
  x:"حالا جزیره‌ی گفتگوی صوتی، موسیقی و تمرکز را با انگشت می‌گیری و به هر جای صفحه می‌بری؛ جایش هم یادش می‌ماند. از «حساب» ← «تنظیمات» ← «جزیره‌ها» شکلش را هم انتخاب کن: مستطیل گوشه‌گرد مثل قبل یا دایره‌ای. بالای همان صفحه یک پیش‌نمایش زنده هست که می‌توانی در آن جزیره را بکشی.",
@@ -18342,12 +18367,25 @@ function vcWhoPaint(){
      - the whiteboard, hands, reactions and camera on/off travel phone-to-phone over a WebRTC data channel («lv»), next to the sound
      - the camera is a video transceiver that is negotiated once together with the sound; turning the camera on/off is replaceTrack (no new offer)
    Because every phone talks to every other phone (mesh), a live holds up to 8 people like the voice chat. */
+Object.assign(__AR,{"پاک‌کن خط‌به‌خط":"ممحاة الخطوط","پاک‌کن خط‌به‌خط: با لمس هر خط همان خط پاک می‌شود (دوبار لمس: پاک‌کن معمولی)":"ممحاة الخطوط: المس أي خط لمسح الخط كاملاً (انقر مرتين: الممحاة العادية)","پاک‌کن معمولی (دوبار لمس: پاک‌کردن خط‌به‌خط)":"الممحاة العادية (انقر مرتين: مسح خط كامل بلمسة)","پاک‌کن خط‌به‌خط: با لمس هر خط، همان خط کامل پاک می‌شود":"ممحاة الخطوط: المس أي خط فيُمسح كاملاً","پاک‌کن معمولی: هرجا بکشی همان‌جا پاک می‌شود":"الممحاة العادية: تمسح حيثما مررت بها","فلش":"سهم","حذف فلش انتخاب‌شده":"حذف السهم المحدد","فلش: بکش، جابه‌جا و بزرگ و کوچکش کن؛ دوبار لمس: رنگ":"سهم: ارسمه وحرّكه وغيّر حجمه؛ انقر مرتين: اللون","اصلاح خودکار شکل":"تصحيح الأشكال تلقائياً","اصلاح خودکار شکل (خط، دایره، مربع، مثلث)":"تصحيح الأشكال تلقائياً (خط، دائرة، مربع، مثلث)","اصلاح خودکار روشن شد؛ خط صاف و دایره، مربع و مثلث مرتب می‌شود":"تم تشغيل التصحيح التلقائي: تُرتَّب الخطوط والدوائر والمربعات والمثلثات","اصلاح خودکار خاموش شد؛ برای مرتب کردن، آخر خط یک لحظه قلم را نگه دار":"تم إيقاف التصحيح التلقائي: لترتيب الشكل أبقِ القلم ثابتاً لحظة في نهاية الخط","دوبار لمس: رنگ دلخواه":"انقر مرتين: لون مخصص","بزرگنمایی":"تكبير","کوچک‌نمایی":"تصغير","اندازهٔ اصلی":"الحجم الأصلي","جابه‌جایی تخته":"تحريك السبورة"});
 var LV_MARK='\uD83D\uDD34 ';
 var LV_W=1200,LV_H=800;
 var LV={vs:null,cam:0,front:1,cams:{},hands:{},hand:0,perm:{},cperm:{},board:0,page:0,pages:1,sk:[],si:{},dc:{},known:{},seeded:0,
   tool:'pen',color:'#1b2129',w:6,cur:null,pend:[],pt:0,cv:null,cx:null,tiles:{},order:'',mt:0,rxOpen:0,
-  pdf:null,pd:0,pi:'',bg:{},bgA:{},bgReq:{}};
+  pdf:null,pd:0,pi:'',bg:{},bgA:{},bgReq:{},
+  snap:1,ht:0,em:0,se:null,eu:[],ldT:0,leT:0,sel:'',ad:null,ast:0,atap:null,raf:0,z:{s:1,x:0,y:0},zv:{s:1,cx:500,cy:500},zw:0,zst:0,zrx:0,ptr:{},ign:{},gs:null,pan:null,q:1,zk:'',zt:0};
 var LV_COL=['#1b2129','#d93636','#2f6fe0','#1f9d55','#f08a1c'];
+/* v427: double-tap a colour in the board toolbar to pick any colour for it (kept on this phone) */
+try{var _lc=JSON.parse(localStorage.getItem('ario_lv_col')||'null');if(Array.isArray(_lc)&&_lc.length===LV_COL.length)_lc.forEach(function(c,i){if(/^#[0-9a-f]{6}$/i.test(c))LV_COL[i]=String(c).toLowerCase()})}catch(e){}
+function lvColSave(){try{localStorage.setItem('ario_lv_col',JSON.stringify(LV_COL))}catch(e){}}
+function lvColPick(i){
+  var old=document.getElementById('lvColIn');if(old)old.remove();
+  var inp=document.createElement('input');inp.type='color';inp.id='lvColIn';inp.value=LV_COL[i];
+  inp.style.cssText='position:fixed;left:50%;top:50%;width:1px;height:1px;opacity:0;pointer-events:none';
+  inp.addEventListener('input',function(){var v=String(inp.value).toLowerCase();if(!/^#[0-9a-f]{6}$/.test(v))return;LV_COL[i]=v;LV.color=v;if(LV.tool!=='arrow')LV.tool='pen';else lvArrowRecolor(v);lvColSave();lvPaint()});
+  inp.addEventListener('change',function(){inp.remove()});
+  document.body.appendChild(inp);inp.click();
+}
 var LV_ICON={
   pdf:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M6 3.5h8l4 4v13H6zM14 3.5v4h4M9 13h6M9 16.5h4"/></svg>',
   cam:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><rect x="3" y="6.5" width="12.5" height="11" rx="2.5"/><path d="M15.5 10.5l5-3v9l-5-3"/></svg>',
@@ -18366,6 +18404,10 @@ var LV_ICON={
   pen:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M12 20h9M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg>',
   poll:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M5 20V11M12 20V4M19 20v-6"/></svg>',
   chat:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M4 5.5h16v10.5H9.5L5.5 19.5V16H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg>',
+  move:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M12 3v18M3 12h18M12 3l-3 3M12 3l3 3M12 21l-3-3M12 21l3-3M3 12l3-3M3 12l3 3M21 12l-3-3M21 12l-3 3"/></svg>',
+  eraser2:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M3 14c3-6 5 3.5 8-2s5-5.5 8-1.5"/><path d="M14.5 16.5l5.5 5.5M20 16.5l-5.5 5.5"/></svg>',
+  arrow:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M4.5 19.5L19 5M19 5h-7.5M19 5v7.5"/></svg>',
+  shape:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><circle cx="9" cy="9" r="5.2"/><rect x="11.5" y="11.5" width="8.5" height="8.5" rx="1"/></svg>',
   fs:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>',
   fsx:'<svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>'
 };
@@ -18436,7 +18478,7 @@ function lvDc(uid,dc){
 /* a stroke is cut into pieces so that one message stays small */
 function lvPieces(s){
   var a=[],i,p=s.pts||[];
-  for(i=0;i<Math.max(1,p.length);i+=200)a.push({id:s.id,u:s.u,pg:s.pg,c:s.c,w:s.w,e:s.e,pts:p.slice(i,i+200)});
+  for(i=0;i<Math.max(1,p.length);i+=200)a.push({id:s.id,u:s.u,pg:s.pg,c:s.c,w:s.w,e:s.e,k:s.k,pts:p.slice(i,i+200)});
   return a;
 }
 function lvHello(uid){
@@ -18444,6 +18486,7 @@ function lvHello(uid){
   if(LV.hand)lvSend({t:'hand',on:1},uid);
   if(!vcIsHost())return;
   lvSend({t:'st',bd:LV.board?1:0,pg:LV.page,np:LV.pages,pd:LV.pd?1:0,pi:LV.pi,pm:Object.keys(LV.perm).filter(function(k){return LV.perm[k]}),cm:Object.keys(LV.cperm).filter(function(k){return LV.cperm[k]})},uid);
+  lvSend(lvZMsg(),uid);
   var buf=[],n=0;
   LV.sk.forEach(function(s){
     lvPieces(s).forEach(function(z){
@@ -18468,6 +18511,13 @@ function lvGot(u,m){
       if(m.on&&vcIsHost()){toast(vcName(l,u)+' '+__('دستش را بالا برد','raised a hand'),null,null,'info');hap('tick')}
       lvPaint();break;
     case 'rx':if(LV_RX.indexOf(m.e)>=0)lvFx(m.e,u);break;
+    case 'zm':{
+      if(u!==VC.host||vcIsHost())return;
+      var zs=+m.s,zx=+m.cx,zy=+m.cy;
+      if(!isFinite(zs)||!isFinite(zx)||!isFinite(zy))return;
+      LV.zv={s:Math.max(LV_ZMIN,Math.min(LV_ZMAX,zs)),cx:Math.max(0,Math.min(1000,zx)),cy:Math.max(0,Math.min(1000,zy))};
+      LV.gs=null;LV.pan=null;
+      lvZRelayout();break}
     case 'st':
       if(u!==VC.host)return;
       var hadW=!!LV.perm[CNX.uid],hadC=!!LV.cperm[CNX.uid];
@@ -18487,6 +18537,17 @@ function lvGot(u,m){
     case 'seg':
       if(!lvCanDraw(u)||!m.s||!m.s.id)return;
       lvAdd(m.s,u);break;
+    case 'rep':{
+      var ro=LV.si[m.id];
+      if(!ro||ro.u!==u)return;
+      if(Array.isArray(m.pts)){
+        var rp=m.pts.slice(0,600).filter(function(q){return q&&q.length>=2}).map(function(q){return [lvNum(q[0]),lvNum(q[1])]});
+        if(ro.k)rp=rp.length>=2?rp.slice(0,2):[];
+        if(rp.length)ro.pts=rp;
+      }
+      if(/^#[0-9a-f]{6}$/i.test(m.c||''))ro.c=m.c;
+      if(ro.pg===LV.page)lvRedraw();
+      break}
     case 'bgq':
       if(vcIsHost()&&LV.pdf)lvBgSend(u,m.pg|0);
       break;
@@ -18508,7 +18569,7 @@ function lvAdd(s,owner,quiet){
   var o=LV.si[s.id];
   if(!o){
     if(LV.sk.length>1500)return null;
-    o={id:String(s.id).slice(0,40),u:owner,pg:Math.max(0,Math.min(19,s.pg|0)),c:/^#[0-9a-f]{6}$/i.test(s.c||'')?s.c:'#1b2129',w:Math.max(1,Math.min(40,+s.w||6)),e:s.e?1:0,pts:[]};
+    o={id:String(s.id).slice(0,40),u:owner,pg:Math.max(0,Math.min(19,s.pg|0)),c:/^#[0-9a-f]{6}$/i.test(s.c||'')?s.c:'#1b2129',w:Math.max(1,Math.min(40,+s.w||6)),e:s.e?1:0,k:s.k?1:0,pts:[]};
     LV.si[o.id]=o;LV.sk.push(o);
   }
   if(o.u!==owner)return o;
@@ -18518,15 +18579,16 @@ function lvAdd(s,owner,quiet){
   if(!quiet&&o.pg===LV.page&&LV.cv)lvDrawSeg(o,Math.max(0,from-1));
   return o;
 }
-function lvDel(id){delete LV.si[id];LV.sk=LV.sk.filter(function(s){return s.id!==id})}
+function lvDel(id){if(LV.sel===id)LV.sel='';delete LV.si[id];LV.sk=LV.sk.filter(function(s){return s.id!==id})}
 function lvDrawSeg(o,from){
   var cv=LV.cv,x=LV.cx;if(!cv||!x)return;
-  var p=o.pts,kx=LV_W/1000,ky=LV_H/1000,i;
+  var p=o.pts,kx=cv.width/1000,ky=cv.height/1000,i,q=cv.width/LV_W;
   if(!p.length)return;
   x.save();
   x.lineCap='round';x.lineJoin='round';
   x.globalCompositeOperation=o.e?'destination-out':'source-over';
-  x.strokeStyle=x.fillStyle=o.c;x.lineWidth=o.e?o.w*3.5:o.w;
+  x.strokeStyle=x.fillStyle=o.c;x.lineWidth=(o.e?o.w*3.5:o.w)*q;
+  if(o.k){if(p.length>=2)lvArrowPaint(x,p[0][0]*kx,p[0][1]*ky,p[1][0]*kx,p[1][1]*ky,o.w*q,q);x.restore();return}
   if(p.length===1){x.beginPath();x.arc(p[0][0]*kx,p[0][1]*ky,x.lineWidth/2,0,6.2832);x.fill()}
   else{
     x.beginPath();x.moveTo(p[from][0]*kx,p[from][1]*ky);
@@ -18538,9 +18600,12 @@ function lvDrawSeg(o,from){
 }
 function lvRedraw(){
   var cv=LV.cv;if(!cv||!LV.cx)return;
-  LV.cx.clearRect(0,0,LV_W,LV_H);
+  var zk=LV.page+'|'+LV.pi;if(LV.zk!==zk){LV.zk=zk;lvZReset()}   /* a new page / a new PDF starts at 100% */
+  LV.cx.clearRect(0,0,cv.width,cv.height);
   lvBgApply();
   LV.sk.forEach(function(o){if(o.pg===LV.page)lvDrawSeg(o,0)});
+  if(LV.ad&&LV.ad.pv)lvDrawSeg({k:1,c:LV.ad.c,w:LV.ad.w,e:0,pts:LV.ad.pv},0);
+  lvDrawSel();
 }
 /* ----- v425: a PDF on the board (the host opens it; every page is sent to the others as a picture, and everybody writes on top of it) ----- */
 var LV_BW=1500,LV_BH=1000;
@@ -18611,6 +18676,468 @@ function lvPdfPick(){
   inp.addEventListener('cancel',function(){inp.remove()});
   document.body.appendChild(inp);inp.click();
 }
+/* ----- v426: zoom in / out on the board and on a PDF opened on it -----
+   The view is a CSS transform on the canvas: the strokes stay in their 0..1000 board coordinates (v428: the host's view is also sent to the others, see lvZShare)
+   and drawing while zoomed lands in the right place (lvPt reads the transformed box). Two fingers (or Ctrl + wheel / wheel in full screen) zoom and move,
+   the + / − / 100% buttons zoom about the middle, the «move» tool (or one finger when I can only watch) pans. 50% .. 500%.
+   After a zoom the canvas is redrawn at 2x / 3x resolution from the stroke data so handwriting stays sharp. */
+var LV_ZMIN=0.5,LV_ZMAX=5;
+function lvZClamp(){
+  var cv=LV.cv,z=LV.z;if(!cv)return;
+  var W=cv.offsetWidth,H=cv.offsetHeight;
+  z.s=Math.max(LV_ZMIN,Math.min(LV_ZMAX,z.s));
+  if(Math.abs(z.s-1)<0.001){z.s=1;z.x=0;z.y=0;return}
+  if(z.s<1){z.x=(W-W*z.s)/2;z.y=(H-H*z.s)/2;return}
+  z.x=Math.min(0,Math.max(W-W*z.s,z.x));
+  z.y=Math.min(0,Math.max(H-H*z.s,z.y));
+}
+function lvZUi(){
+  var w=VC.w,cv=LV.cv;if(!w||!cv)return;
+  var z=LV.z,cw=cv.parentNode,l=w.querySelector('#lvZl');
+  if(l){var t=fa(Math.round(z.s*100))+'%';if(l.textContent!==t)l.textContent=t}
+  if(cw&&cw.classList){cw.classList.toggle('zo',z.s<1);cw.classList.toggle('pn',z.s>1&&(LV.tool==='pan'||!!LV.space||!lvMeCanDraw()))}
+}
+function lvZApply(quiet){
+  var cv=LV.cv;if(!cv)return;
+  lvZClamp();
+  var z=LV.z,W=cv.offsetWidth,H=cv.offsetHeight;
+  cv.style.transform=z.s===1?'':'translate('+z.x+'px,'+z.y+'px) scale('+z.s+')';
+  if(W&&H)LV.zv={s:z.s,cx:(W/2-z.x)/(W*z.s)*1000,cy:(H/2-z.y)/(H*z.s)*1000};   /* the view as «this part of the board is in the middle», the same on every screen size */
+  lvZUi();
+  clearTimeout(LV.zt);LV.zt=setTimeout(lvZQ,220);
+  if(quiet!==1)lvZShare();
+}
+/* v428: the host's zoom / move is shown to everybody. A view travels as {s, cx, cy} (scale + board point in the middle), so it fits every screen size */
+function lvZMsg(){var v=LV.zv;return {t:'zm',s:Math.round(v.s*1000)/1000,cx:Math.round(v.cx*10)/10,cy:Math.round(v.cy*10)/10}}
+function lvZShare(now){
+  if(!vcIsHost()||!VC.on)return;
+  if(now){clearTimeout(LV.zst);LV.zst=0;lvSend(lvZMsg());return}
+  if(!LV.zst)LV.zst=setTimeout(function(){LV.zst=0;lvSend(lvZMsg())},70);
+}
+/* put the stored view onto this screen (after a message from the host, a resize, full screen, or the board showing up) */
+function lvZRelayout(){
+  var cv=LV.cv;if(!cv)return;
+  var v=LV.zv,W=cv.offsetWidth,H=cv.offsetHeight;
+  if(!W||!H)return;
+  LV.zw=W;
+  LV.z.s=v.s;LV.z.x=W/2-v.cx/1000*W*v.s;LV.z.y=H/2-v.cy/1000*H*v.s;
+  lvZApply(1);
+}
+function lvZQ(){
+  LV.zt=0;
+  var cv=LV.cv;if(!cv||!cv.isConnected)return;
+  var s=LV.z.s,q=s>2.4?3:s>1.25?2:1;
+  if(q===LV.q)return;
+  LV.q=q;cv.width=LV_W*q;cv.height=LV_H*q;lvRedraw();
+}
+function lvZReset(shared){
+  LV.z={s:1,x:0,y:0};LV.zv={s:1,cx:500,cy:500};LV.gs=null;LV.pan=null;
+  var cv=LV.cv;if(!cv)return;
+  cv.style.transform='';
+  clearTimeout(LV.zt);LV.zt=0;
+  if(LV.q!==1){LV.q=1;cv.width=LV_W;cv.height=LV_H;LV.cx.clearRect(0,0,cv.width,cv.height);LV.sk.forEach(function(o){if(o.pg===LV.page)lvDrawSeg(o,0)})}
+  lvZUi();
+  if(shared)lvZShare(1);
+}
+/* zoom to scale ns keeping the screen point (cx, cy) where it is */
+function lvZAt(ns,cx,cy){
+  var cv=LV.cv;if(!cv)return;
+  var z=LV.z,r=cv.getBoundingClientRect();
+  ns=Math.max(LV_ZMIN,Math.min(LV_ZMAX,ns));
+  if(Math.abs(ns-1)<0.03)ns=1;
+  var px=(cx-r.left)/z.s,py=(cy-r.top)/z.s;
+  z.x+=(z.s-ns)*px;z.y+=(z.s-ns)*py;z.s=ns;
+  lvZApply();
+}
+function lvZStep(f){
+  var cv=LV.cv;if(!cv)return;
+  var r=cv.parentNode.getBoundingClientRect(),s0=LV.z.s,ns=s0*f;
+  if((s0<1&&ns>1)||(s0>1&&ns<1))ns=1;
+  lvZAt(ns,r.left+r.width/2,r.top+r.height/2);
+  hap('tick');
+}
+document.addEventListener('keydown',function(e){
+  if(e.code!=='Space'||!LV.board||!lvOn())return;
+  var tn=e.target&&e.target.tagName;
+  if(tn==='INPUT'||tn==='TEXTAREA'||tn==='BUTTON'||tn==='SELECT'||(e.target&&e.target.isContentEditable))return;
+  e.preventDefault();if(!LV.space){LV.space=1;lvZUi()}
+});
+document.addEventListener('keyup',function(e){if(e.code==='Space'&&LV.space){LV.space=0;lvZUi()}});
+window.addEventListener('blur',function(){if(LV.space){LV.space=0;lvZUi()}});
+function lvWheel(e){
+  if(!(e.ctrlKey||e.metaKey||lvFsOn()||LV.z.s!==1))return;
+  e.preventDefault();
+  var d=Math.max(-100,Math.min(100,e.deltaY));
+  lvZAt(LV.z.s*Math.exp(-d*((e.ctrlKey||e.metaKey)?0.012:0.0025)),e.clientX,e.clientY);
+}
+function lvPinchStart(){
+  var ids=Object.keys(LV.ptr);if(ids.length<2)return;
+  var a=LV.ptr[ids[0]],b=LV.ptr[ids[1]],r=LV.cv.getBoundingClientRect(),z=LV.z;
+  var mx=(a.x+b.x)/2,my=(a.y+b.y)/2;
+  LV.pan=null;
+  LV.gs={a:ids[0],b:ids[1],d:Math.max(10,Math.hypot(a.x-b.x,a.y-b.y)),s:z.s,nx:r.left-z.x,ny:r.top-z.y,px:(mx-r.left)/z.s,py:(my-r.top)/z.s};
+}
+function lvPinchMove(){
+  var g=LV.gs;if(!g)return;
+  var a=LV.ptr[g.a],b=LV.ptr[g.b];if(!a||!b)return;
+  var mx=(a.x+b.x)/2,my=(a.y+b.y)/2,z=LV.z;
+  z.s=Math.max(LV_ZMIN,Math.min(LV_ZMAX,g.s*Math.hypot(a.x-b.x,a.y-b.y)/g.d));
+  z.x=mx-g.nx-g.px*z.s;z.y=my-g.ny-g.py*z.s;
+  lvZApply();
+}
+function lvPanStart(e){
+  e.preventDefault();
+  try{LV.cv.setPointerCapture(e.pointerId)}catch(x){}
+  LV.pan={id:e.pointerId,x:e.clientX,y:e.clientY,zx:LV.z.x,zy:LV.z.y};
+}
+function lvPDown(e){
+  if(e.pointerType==='mouse'){LV.ptr={};LV.ign={};LV.gs=null}
+  LV.ptr[e.pointerId]={x:e.clientX,y:e.clientY};
+  var n=Object.keys(LV.ptr).length;
+  if(n>=2){
+    /* a second finger: pinch. If a long stroke is being written, it is a palm: ignore it so the writing is not lost */
+    var o=LV.cur&&LV.si[LV.cur.id];
+    if(o&&o.pts.length>10){delete LV.ptr[e.pointerId];LV.ign[e.pointerId]=1;return}
+    if(LV.ad)lvAdCancel();
+    if(LV.se)lvSeUp();
+    if(LV.cur){var id=LV.cur.id;clearTimeout(LV.pt);LV.pt=0;LV.pend=[];LV.cur=null;lvDel(id);lvRedraw();lvSend({t:'undo',id:id})}
+    e.preventDefault();
+    try{LV.cv.setPointerCapture(e.pointerId)}catch(x){}
+    lvPinchStart();
+    return;
+  }
+  if(LV.tool==='pan'||(!lvMeCanDraw()&&LV.z.s>1)||(e.pointerType==='mouse'&&(e.button===1||LV.space))){lvPanStart(e);return}   /* mouse: middle button, or hold Space, moves the board with any tool */
+  lvDown(e);
+}
+function lvPMove(e){
+  if(LV.ign[e.pointerId])return;
+  var p=LV.ptr[e.pointerId];if(p){p.x=e.clientX;p.y=e.clientY}
+  if(LV.gs){e.preventDefault();lvPinchMove();return}
+  var pn=LV.pan;
+  if(pn&&pn.id===e.pointerId){
+    LV.z.x=pn.zx+(e.clientX-pn.x);LV.z.y=pn.zy+(e.clientY-pn.y);lvZApply();return;
+  }
+  lvMove(e);
+}
+function lvPUp(e){
+  if(LV.ign[e.pointerId]){delete LV.ign[e.pointerId];return}
+  delete LV.ptr[e.pointerId];
+  var ks=Object.keys(LV.ptr);
+  if(LV.gs){
+    if(ks.length<2){
+      LV.gs=null;
+      if(Math.abs(LV.z.s-1)<0.06&&LV.z.s!==1)lvZReset(1);   /* close to 100%: snap back */
+      else if(ks.length===1&&LV.z.s>1){var q=LV.ptr[ks[0]];LV.pan={id:+ks[0],x:q.x,y:q.y,zx:LV.z.x,zy:LV.z.y}}   /* one finger stays: keep moving the board with it */
+    }
+    return;
+  }
+  if(LV.pan&&LV.pan.id===e.pointerId){LV.pan=null;return}
+  lvUp();
+}
+/* ----- v429: shape auto-correct: a straight line, a circle / ellipse, a square / rectangle or a triangle is made neat -----
+   On (the button after the width): the stroke is straightened when the pen lifts. Off: hold the pen still for a moment at the end of the stroke.
+   Only big strokes count (small ones are handwriting). The neat shape replaces the stroke's points on every screen with one «rep» message (same id, so undo still works). */
+try{if(localStorage.getItem('ario_lv_snap')==='0')LV.snap=0}catch(e){}
+function lvSnapSave(){try{localStorage.setItem('ario_lv_snap',LV.snap?'1':'0')}catch(e){}}
+function lvRdp(a,i,j,eps,out){
+  var d=0,k=-1,x1=a[i][0],y1=a[i][1],dx=a[j][0]-x1,dy=a[j][1]-y1,l=Math.hypot(dx,dy),m,t;
+  for(m=i+1;m<j;m++){
+    t=l?Math.abs(dy*(a[m][0]-x1)-dx*(a[m][1]-y1))/l:Math.hypot(a[m][0]-x1,a[m][1]-y1);
+    if(t>d){d=t;k=m}
+  }
+  if(d>eps&&k>0){lvRdp(a,i,k,eps,out);lvRdp(a,k,j,eps,out)}else out.push(j);
+}
+function lvTurn(a,b,c){   /* how much the path turns at b, in degrees (0 = straight on) */
+  var u=Math.atan2(b[1]-a[1],b[0]-a[0]),v=Math.atan2(c[1]-b[1],c[0]-b[0]),d=Math.abs(v-u)*180/Math.PI;
+  return d>180?360-d:d;
+}
+function lvPolyPts(vs){   /* a closed polygon as many points; each corner is doubled so the curve smoothing keeps it sharp */
+  var o=[],i,j,n=vs.length,a,b,st;
+  for(i=0;i<n;i++){
+    a=vs[i];b=vs[(i+1)%n];
+    o.push([a[0],a[1]],[a[0],a[1]]);
+    st=Math.max(1,Math.ceil(Math.hypot(b[0]-a[0],b[1]-a[1])/18));
+    for(j=1;j<st;j++)o.push([a[0]+(b[0]-a[0])*j/st,a[1]+(b[1]-a[1])*j/st]);
+  }
+  o.push([vs[0][0],vs[0][1]],[vs[0][0],vs[0][1]]);
+  return o;
+}
+/* pts in board units 0..1000 -> neat points in board units, or null when it is not a clear shape */
+function lvShape(pts){
+  var n=pts.length;if(n<8)return null;
+  var P=pts.map(function(q){return [q[0]*LV_W/1000,q[1]*LV_H/1000]}),i,L=0,x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
+  for(i=0;i<n;i++){
+    if(i)L+=Math.hypot(P[i][0]-P[i-1][0],P[i][1]-P[i-1][1]);
+    x0=Math.min(x0,P[i][0]);x1=Math.max(x1,P[i][0]);y0=Math.min(y0,P[i][1]);y1=Math.max(y1,P[i][1]);
+  }
+  var w=x1-x0,h=y1-y0,diag=Math.hypot(w,h);
+  if(diag<90||L<110)return null;   /* small = handwriting */
+  var out=null,first=P[0],last=P[n-1],gap=Math.hypot(first[0]-last[0],first[1]-last[1]);
+  if(gap<0.2*L){
+    /* ---- closed ---- */
+    var f=0,fd=0,ix,ia,ib,vs=[],keep;
+    for(i=1;i<n;i++){var dd=Math.hypot(P[i][0]-first[0],P[i][1]-first[1]);if(dd>fd){fd=dd;f=i}}
+    if(f<2||f>n-3)return null;
+    ia=[0];lvRdp(P,0,f,diag*0.045,ia);ib=[f];lvRdp(P,f,n-1,diag*0.045,ib);
+    ix=ia.concat(ib.slice(1));ix.pop();   /* the last point is the first again */
+    ix.forEach(function(k){vs.push(P[k])});
+    /* drop corners that are really straight (the start point lies on a side) */
+    var ch=1;while(ch&&vs.length>3){
+      ch=0;
+      for(i=0;i<vs.length;i++){
+        if(lvTurn(vs[(i+vs.length-1)%vs.length],vs[i],vs[(i+1)%vs.length])<28){vs.splice(i,1);ch=1;break}
+      }
+    }
+    var k=vs.length;
+    /* how round: radius around the box centre, stretched to a circle */
+    var cx=(x0+x1)/2,cy=(y0+y1)/2,rx=w/2,ry=h/2,rs=0,rq=0,r;
+    if(rx>1&&ry>1)for(i=0;i<n;i++){r=Math.hypot((P[i][0]-cx)/rx,(P[i][1]-cy)/ry);rs+=r;rq+=r*r}
+    var rm=rs/n,sd=Math.sqrt(Math.max(0,rq/n-rm*rm));
+    if(k>=5&&Math.min(w,h)>0.3*Math.max(w,h)&&Math.abs(rm-1)<0.12&&sd<0.1){
+      var rr=(rx+ry)/2,circ=Math.abs(rx-ry)/Math.max(rx,ry)<0.15,ax=circ?rr:rx,ay=circ?rr:ry,t0=Math.atan2((first[1]-cy)/ay,(first[0]-cx)/ax),e=[];
+      for(i=0;i<=72;i++){var tt=t0+i*Math.PI*2/72;e.push([cx+ax*Math.cos(tt),cy+ay*Math.sin(tt)])}
+      out=e;
+    }else if(k===3){
+      var ar=Math.abs((vs[1][0]-vs[0][0])*(vs[2][1]-vs[0][1])-(vs[2][0]-vs[0][0])*(vs[1][1]-vs[0][1]))/2;
+      if(ar/(L*L)>0.012)out=lvPolyPts(vs);
+    }else if(k===4){
+      var good=1;
+      for(i=0;i<4;i++){var tn=lvTurn(vs[(i+3)%4],vs[i],vs[(i+1)%4]);if(tn<60||tn>120)good=0}
+      if(good){
+        var axis=1;
+        for(i=0;i<4;i++){var a=vs[i],b=vs[(i+1)%4],ang=Math.abs(Math.atan2(b[1]-a[1],b[0]-a[0])*180/Math.PI)%90;if(ang>12&&ang<78)axis=0}
+        if(axis){
+          var bx0=1e9,by0=1e9,bx1=-1e9,by1=-1e9;
+          vs.forEach(function(v){bx0=Math.min(bx0,v[0]);bx1=Math.max(bx1,v[0]);by0=Math.min(by0,v[1]);by1=Math.max(by1,v[1])});
+          var bw=bx1-bx0,bh=by1-by0,mx=(bx0+bx1)/2,my=(by0+by1)/2;
+          if(Math.abs(bw-bh)/Math.max(bw,bh)<0.15){bw=bh=(bw+bh)/2}
+          out=lvPolyPts([[mx-bw/2,my-bh/2],[mx+bw/2,my-bh/2],[mx+bw/2,my+bh/2],[mx-bw/2,my+bh/2]]);
+        }else out=lvPolyPts(vs);
+      }
+    }
+  }else{
+    /* ---- open: a straight line ---- */
+    var dx=last[0]-first[0],dy=last[1]-first[1],cl=Math.hypot(dx,dy),mdv=0,t;
+    if(cl<80||L/cl>1.15)return null;
+    for(i=0;i<n;i++){t=Math.abs(dy*(P[i][0]-first[0])-dx*(P[i][1]-first[1]))/cl;if(t>mdv)mdv=t}
+    if(mdv/cl>0.07)return null;
+    var an=Math.atan2(dy,dx)*180/Math.PI,aa=Math.abs(an)%90,ex=last[0],ey=last[1];
+    if(aa<5||aa>85){if(Math.abs(dx)>Math.abs(dy))ey=first[1];else ex=first[0]}   /* nearly flat or upright: make it exactly so */
+    out=[[first[0],first[1]],[ex,ey]];
+  }
+  if(!out)return null;
+  return out.slice(0,600).map(function(q){return [Math.round(lvNum(q[0]*1000/LV_W)*10)/10,Math.round(lvNum(q[1]*1000/LV_H)*10)/10]});
+}
+function lvSnapStroke(id){
+  var o=LV.si[id];if(!o||o.u!==CNX.uid||o.e||o.k)return false;
+  var np=lvShape(o.pts);if(!np)return false;
+  o.pts=np;lvRedraw();lvSend({t:'rep',id:id,pts:np});hap('tick');
+  return true;
+}
+function lvHoldArm(){
+  clearTimeout(LV.ht);LV.ht=0;
+  if(LV.snap)return;
+  LV.ht=setTimeout(function(){LV.ht=0;var c=LV.cur;if(!c||c.snapped||c.e)return;lvFlush();if(lvSnapStroke(c.id))c.snapped=1},600);
+}
+/* ----- v430: the arrow tool (the button after the colours): a straight arrow like an axis line.
+   It is one stroke with k:1 and two points (tail, head), so sync, undo, clear and late joiners already work.
+   Drag on empty board = a new arrow. Tap an arrow = select it (a handle on each end): drag a handle to resize / turn it, drag the line to move it,
+   double-tap it for any colour, a colour in the toolbar recolours the selected arrow, the red button (or Delete) removes it. Only the owner edits an arrow. ----- */
+function lvArrowPaint(x,x0,y0,x1,y1,w,q){
+  var dx=x1-x0,dy=y1-y0,L=Math.hypot(dx,dy);if(L<1)return;
+  var ux=dx/L,uy=dy/L,hl=Math.min(L*0.6,w*3.6+14*q),hw=hl*0.55;
+  x.beginPath();x.moveTo(x0,y0);x.lineTo(x1-ux*hl*0.7,y1-uy*hl*0.7);x.stroke();
+  x.beginPath();x.moveTo(x1,y1);x.lineTo(x1-ux*hl-uy*hw,y1-uy*hl+ux*hw);x.lineTo(x1-ux*hl+uy*hw,y1-uy*hl-ux*hw);x.closePath();x.fill();
+}
+function lvDrawSel(){
+  var cv=LV.cv,x=LV.cx;if(!cv||!x||LV.tool!=='arrow'||!LV.sel)return;
+  var o=LV.si[LV.sel];if(!o||!o.k||o.pg!==LV.page||o.u!==CNX.uid)return;
+  var r=cv.getBoundingClientRect();if(!(r.width>0))return;
+  var k=cv.width/r.width,kx=cv.width/1000,ky=cv.height/1000;
+  x.save();x.globalCompositeOperation='source-over';x.lineWidth=2.5*k;x.strokeStyle='#2e86d4';x.fillStyle='#fff';
+  o.pts.forEach(function(q){x.beginPath();x.arc(q[0]*kx,q[1]*ky,9*k,0,6.2832);x.fill();x.stroke()});
+  x.restore();
+}
+function lvRedrawSoon(){if(LV.raf)return;LV.raf=requestAnimationFrame(function(){LV.raf=0;lvRedraw()})}
+/* a nearly flat or upright arrow is made exactly so (when shape auto-correct is on) */
+function lvArrowSnap(p){
+  var a=p[0],b=p[1];
+  if(LV.snap){
+    var dx=(b[0]-a[0])*LV_W/1000,dy=(b[1]-a[1])*LV_H/1000,an=Math.abs(Math.atan2(dy,dx)*180/Math.PI)%90;
+    if(an<4||an>86){if(Math.abs(dx)>=Math.abs(dy))b=[b[0],a[1]];else b=[a[0],b[1]]}
+  }
+  return [[a[0],a[1]],[Math.round(b[0]*10)/10,Math.round(b[1]*10)/10]];
+}
+function lvSegDist(px,py,ax,ay,bx,by){
+  var dx=bx-ax,dy=by-ay,l2=dx*dx+dy*dy,t=l2?Math.max(0,Math.min(1,((px-ax)*dx+(py-ay)*dy)/l2)):0;
+  return Math.hypot(px-(ax+dx*t),py-(ay+dy*t));
+}
+/* which of my arrows is under the finger: a handle of the selected one (end1 / end2) or the line of any (move) */
+function lvArrowHit(e){
+  var r=LV.cv.getBoundingClientRect(),me=CNX.uid,i,o,sel=LV.sel&&LV.si[LV.sel],list=[];
+  var X=function(v){return r.left+v/1000*r.width},Y=function(v){return r.top+v/1000*r.height};
+  if(sel&&sel.k&&sel.u===me&&sel.pg===LV.page){
+    var a=sel.pts[0],b=sel.pts[1];
+    if(Math.hypot(e.clientX-X(a[0]),e.clientY-Y(a[1]))<=26)return {o:sel,mode:'end1'};
+    if(Math.hypot(e.clientX-X(b[0]),e.clientY-Y(b[1]))<=26)return {o:sel,mode:'end2'};
+    list.push(sel);
+  }
+  for(i=LV.sk.length-1;i>=0;i--){o=LV.sk[i];if(o.k&&o.u===me&&o.pg===LV.page&&o!==sel)list.push(o)}
+  for(i=0;i<list.length;i++){
+    o=list[i];
+    var d=lvSegDist(e.clientX,e.clientY,X(o.pts[0][0]),Y(o.pts[0][1]),X(o.pts[1][0]),Y(o.pts[1][1]));
+    if(d<=Math.max(16,o.w*r.width/LV_W/2+10))return {o:o,mode:'move'};
+  }
+  return null;
+}
+function lvArrowDown(e,pt){
+  var h=lvArrowHit(e),a={pt:pt,moved:0,sx:e.clientX,sy:e.clientY,w:LV.w,c:LV.color};
+  if(h){a.mode=h.mode;a.id=h.o.id;a.orig=[h.o.pts[0][0],h.o.pts[0][1],h.o.pts[1][0],h.o.pts[1][1]];LV.sel=h.o.id}
+  else{a.mode='new';a.pv=null;LV.sel=''}
+  LV.ad=a;lvRedraw();lvPaint();
+}
+function lvArrowLive(o){
+  if(LV.ast)return;
+  LV.ast=setTimeout(function(){LV.ast=0;var q=LV.si[o.id];if(q)lvSend({t:'rep',id:q.id,pts:q.pts})},70);
+}
+function lvArrowMove(e){
+  var a=LV.ad;if(!a)return;
+  if(!a.moved&&Math.hypot(e.clientX-a.sx,e.clientY-a.sy)<5)return;
+  a.moved=1;
+  var pt=lvPt(e),o=a.id&&LV.si[a.id],dx=pt[0]-a.pt[0],dy=pt[1]-a.pt[1],q=a.orig;
+  if(a.mode==='new')a.pv=lvArrowSnap([a.pt,pt]);
+  else if(o){
+    if(a.mode==='move'){
+      var mnx=Math.min(q[0],q[2]),mxx=Math.max(q[0],q[2]),mny=Math.min(q[1],q[3]),mxy=Math.max(q[1],q[3]);
+      dx=Math.max(-mnx,Math.min(1000-mxx,dx));dy=Math.max(-mny,Math.min(1000-mxy,dy));
+      o.pts=[[q[0]+dx,q[1]+dy],[q[2]+dx,q[3]+dy]];
+    }else if(a.mode==='end2')o.pts=lvArrowSnap([[q[0],q[1]],pt]);
+    else{var sn=lvArrowSnap([[q[2],q[3]],pt]);o.pts=[sn[1],sn[0]]}
+    lvArrowLive(o);
+  }
+  lvRedrawSoon();
+}
+function lvArrowUp(){
+  var a=LV.ad;if(!a)return;
+  LV.ad=null;clearTimeout(LV.ast);LV.ast=0;
+  var o=a.id&&LV.si[a.id];
+  if(a.mode==='new'){
+    if(a.moved&&a.pv){
+      var r=LV.cv.getBoundingClientRect(),len=Math.hypot((a.pv[1][0]-a.pv[0][0])*r.width/1000,(a.pv[1][1]-a.pv[0][1])*r.height/1000);
+      if(len>=14){
+        var id=String(CNX.uid).slice(0,6)+Date.now().toString(36)+Math.random().toString(36).slice(2,5),s={id:id,pg:LV.page,c:a.c,w:a.w,e:0,k:1,pts:a.pv};
+        if(lvAdd(s,CNX.uid,1)){lvSend({t:'seg',s:s});LV.sel=id;LV.ldT=Date.now();hap('tick')}
+      }
+    }
+  }else if(o){
+    if(a.moved)lvSend({t:'rep',id:o.id,pts:o.pts});
+    else{   /* a tap: select; the second tap on the same arrow opens the colour picker */
+      var now=Date.now();
+      if(LV.atap&&LV.atap.id===o.id&&now-LV.atap.t<450){LV.atap=null;lvArrowPick(o.id)}else LV.atap={id:o.id,t:now};
+    }
+  }
+  lvRedraw();lvPaint();
+}
+function lvAdCancel(){
+  var a=LV.ad;if(!a)return;
+  LV.ad=null;clearTimeout(LV.ast);LV.ast=0;
+  var o=a.id&&LV.si[a.id];
+  if(o&&a.orig&&a.moved){o.pts=[[a.orig[0],a.orig[1]],[a.orig[2],a.orig[3]]];lvSend({t:'rep',id:o.id,pts:o.pts})}
+  lvRedraw();
+}
+function lvArrowRecolor(c){
+  var o=LV.sel&&LV.si[LV.sel];
+  if(!o||!o.k||o.u!==CNX.uid||o.pg!==LV.page||!/^#[0-9a-f]{6}$/i.test(c||''))return;
+  o.c=c;lvRedraw();lvSend({t:'rep',id:o.id,c:c});
+}
+function lvArrowPick(id){
+  var o=LV.si[id];if(!o||!o.k)return;
+  var old=document.getElementById('lvColIn');if(old)old.remove();
+  var inp=document.createElement('input');inp.type='color';inp.id='lvColIn';inp.value=o.c;
+  inp.style.cssText='position:fixed;left:50%;top:50%;width:1px;height:1px;opacity:0;pointer-events:none';
+  inp.addEventListener('input',function(){var v=String(inp.value).toLowerCase(),q=LV.si[id];if(!q||!/^#[0-9a-f]{6}$/.test(v))return;q.c=v;lvRedraw();lvSend({t:'rep',id:id,c:v})});
+  inp.addEventListener('change',function(){inp.remove()});
+  document.body.appendChild(inp);inp.click();
+}
+function lvArrowDelete(){
+  var id=LV.sel,o=id&&LV.si[id];
+  if(!o||!o.k||o.u!==CNX.uid)return;
+  lvDel(id);lvSend({t:'undo',id:id});LV.sel='';lvRedraw();lvPaint();hap('tick');
+}
+document.addEventListener('keydown',function(e){
+  if((e.key==='Delete'||e.key==='Backspace')&&LV.sel&&LV.tool==='arrow'&&lvOn()){
+    var tg=e.target,tn=tg&&tg.tagName;
+    if(tn==='INPUT'||tn==='TEXTAREA'||(tg&&tg.isContentEditable))return;
+    e.preventDefault();lvArrowDelete();
+  }
+});
+/* ----- v431: two erasers. Normal (as before): a stroke that rubs out whatever it passes over. Stroke eraser: touching a line (or an arrow) erases all of it.
+   Double-tap the eraser button to switch (the icon changes; it is kept on this phone). You can erase your own lines; the host can erase everybody's.
+   Undo brings the last erased lines back (as long as nothing newer was drawn). ----- */
+try{if(localStorage.getItem('ario_lv_em')==='1')LV.em=1}catch(e){}
+function lvEmSave(){try{localStorage.setItem('ario_lv_em',LV.em?'1':'0')}catch(e){}}
+function lvStrokeHit(o,px,py,r){
+  var p=o.pts,n=p.length,i,kx=r.width/1000,ky=r.height/1000,tol=Math.max(11,o.w*r.width/LV_W/2+8);
+  if(!n)return false;
+  var key=n+','+p[0][0]+','+p[n-1][1],bb=o.bb;
+  if(!bb||bb.k!==key){
+    var x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
+    for(i=0;i<n;i++){if(p[i][0]<x0)x0=p[i][0];if(p[i][0]>x1)x1=p[i][0];if(p[i][1]<y0)y0=p[i][1];if(p[i][1]>y1)y1=p[i][1]}
+    bb=o.bb={k:key,x0:x0,y0:y0,x1:x1,y1:y1};
+  }
+  if(px<r.left+bb.x0*kx-tol||px>r.left+bb.x1*kx+tol||py<r.top+bb.y0*ky-tol||py>r.top+bb.y1*ky+tol)return false;
+  if(n===1)return Math.hypot(px-(r.left+p[0][0]*kx),py-(r.top+p[0][1]*ky))<=tol;
+  for(i=1;i<n;i++)if(lvSegDist(px,py,r.left+p[i-1][0]*kx,r.top+p[i-1][1]*ky,r.left+p[i][0]*kx,r.top+p[i][1]*ky)<=tol)return true;
+  return false;
+}
+function lvEraseAt(px,py){
+  var r=LV.cv.getBoundingClientRect(),me=CNX.uid,host=vcIsHost(),i,o,gone=[];
+  if(!(r.width>0))return;
+  for(i=LV.sk.length-1;i>=0;i--){
+    o=LV.sk[i];
+    if(o.pg!==LV.page||o.e)continue;
+    if(o.u!==me&&!host)continue;
+    if(lvStrokeHit(o,px,py,r))gone.push(o);
+  }
+  gone.forEach(function(g){
+    lvDel(g.id);lvSend({t:'undo',id:g.id});
+    if(g.u===me&&LV.se)LV.se.got.push(g);
+  });
+  if(gone.length){hap('tick');lvRedrawSoon()}
+}
+function lvSeDown(e){
+  e.preventDefault&&e.preventDefault();
+  LV.se={x:e.clientX,y:e.clientY,got:[]};
+  lvEraseAt(e.clientX,e.clientY);
+}
+function lvSeMove(e){
+  var s=LV.se;if(!s)return;
+  var evs=(e.getCoalescedEvents&&e.getCoalescedEvents())||[e];
+  evs.forEach(function(v){
+    var dx=v.clientX-s.x,dy=v.clientY-s.y,n=Math.max(1,Math.ceil(Math.hypot(dx,dy)/6)),k;
+    for(k=1;k<=n;k++)lvEraseAt(s.x+dx*k/n,s.y+dy*k/n);
+    s.x=v.clientX;s.y=v.clientY;
+  });
+}
+function lvSeUp(){
+  var s=LV.se;if(!s)return;
+  LV.se=null;
+  if(s.got.length){LV.eu.push({pg:LV.page,t:Date.now(),s:s.got});if(LV.eu.length>20)LV.eu.shift()}
+  lvRedraw();lvPaint();
+}
+/* undo: put the last erased lines back, unless I drew something after erasing them */
+function lvEraseUndo(){
+  var b=LV.eu[LV.eu.length-1];
+  if(!b||b.pg!==LV.page||b.t<LV.ldT)return false;
+  LV.eu.pop();
+  b.s.forEach(function(s){
+    if(LV.si[s.id])return;
+    var c={id:s.id,u:CNX.uid,pg:s.pg,c:s.c,w:s.w,e:0,k:s.k,pts:s.pts.map(function(q){return q.slice()})};
+    if(lvAdd(c,CNX.uid,1))lvPieces(c).forEach(function(z){lvSend({t:'seg',s:z})});
+  });
+  lvRedraw();lvPaint();hap('tick');
+  return true;
+}
 function lvPt(e){
   var r=LV.cv.getBoundingClientRect();
   return [Math.round(lvNum((e.clientX-r.left)/r.width*1000)*10)/10,Math.round(lvNum((e.clientY-r.top)/r.height*1000)*10)/10];
@@ -18624,8 +19151,12 @@ function lvFlush(){
 function lvDown(e){
   if(!lvMeCanDraw()){toast(__('اجازهٔ نوشتن روی تخته را نداری؛ از سازنده بخواه','You are not allowed to write on the board; ask the host'),null,null,'warn',1);return}
   e.preventDefault();
+  clearTimeout(LV.ht);LV.ht=0;
   try{LV.cv.setPointerCapture(e.pointerId)}catch(x){}
   var pt=lvPt(e),id=String(CNX.uid).slice(0,6)+Date.now().toString(36)+Math.random().toString(36).slice(2,5);
+  if(LV.tool==='eraser'&&LV.em){lvSeDown(e);return}
+  if(LV.tool==='arrow'){lvArrowDown(e,pt);return}
+  LV.ldT=Date.now();
   var s={id:id,pg:LV.page,c:LV.color,w:LV.w,e:LV.tool==='eraser'?1:0,pts:[pt]};
   LV.cur={id:id,pg:s.pg,c:s.c,w:s.w,e:s.e,last:pt};
   LV.pend=[pt];
@@ -18633,7 +19164,9 @@ function lvDown(e){
   lvFlush();
 }
 function lvMove(e){
-  var c=LV.cur;if(!c)return;
+  if(LV.se){lvSeMove(e);return}
+  if(LV.ad){lvArrowMove(e);return}
+  var c=LV.cur;if(!c||c.snapped)return;
   var evs=(e.getCoalescedEvents&&e.getCoalescedEvents())||[e],i,o=LV.si[c.id];
   if(!o)return;
   for(i=0;i<evs.length;i++){
@@ -18644,9 +19177,11 @@ function lvMove(e){
     lvDrawSeg(o,Math.max(0,from-1));
   }
   if(!LV.pt)LV.pt=setTimeout(lvFlush,40);
+  lvHoldArm();
 }
-function lvUp(){if(!LV.cur)return;lvFlush();LV.cur=null}
+function lvUp(){clearTimeout(LV.ht);LV.ht=0;if(LV.se){lvSeUp();return}if(LV.ad){lvArrowUp();return}var c=LV.cur;if(!c)return;lvFlush();if(LV.snap&&!c.snapped&&!c.e)lvSnapStroke(c.id);LV.cur=null}
 function lvUndo(){
+  if(lvEraseUndo())return;
   var i,me=CNX.uid;
   for(i=LV.sk.length-1;i>=0;i--){
     if(LV.sk[i].u===me&&LV.sk[i].pg===LV.page){var id=LV.sk[i].id;lvDel(id);lvRedraw();lvSend({t:'undo',id:id});return}
@@ -18704,7 +19239,7 @@ function lvReact(e){
 function lvBuild(w){
   var sp=w.querySelector('.vc-sp'),bar=w.querySelector('.vc-bar'),mic=w.querySelector('[data-vc="mute"]');
   var live=document.createElement('div');live.className='lv-live';
-  live.innerHTML='<div class="lv-bd" id="lvBd" hidden><div class="lv-cvw"><canvas id="lvCv" width="'+LV_W+'" height="'+LV_H+'"></canvas><button type="button" class="lv-fs" id="lvFs" data-vc="lvfs" aria-label="'+__('تمام‌صفحه','Full screen')+'">'+LV_ICON.fs+'</button><button type="button" class="lv-fs lv-fcb" id="lvFcB" data-vc="lvfc" aria-label="'+__('پیام‌ها','Messages')+'">'+LV_ICON.chat+'<em></em></button></div>'+
+  live.innerHTML='<div class="lv-bd" id="lvBd" hidden><div class="lv-cvw"><canvas id="lvCv" width="'+LV_W+'" height="'+LV_H+'"></canvas><div class="lv-zm" id="lvZm"><button type="button" data-vc="lvzout" aria-label="'+__('کوچک‌نمایی','Zoom out')+'">\u2212</button><button type="button" class="lv-zp" id="lvZl" data-vc="lvzr" aria-label="'+__('اندازهٔ اصلی','Reset zoom')+'">100%</button><button type="button" data-vc="lvzin" aria-label="'+__('بزرگنمایی','Zoom in')+'">+</button></div><button type="button" class="lv-fs" id="lvFs" data-vc="lvfs" aria-label="'+__('تمام‌صفحه','Full screen')+'">'+LV_ICON.fs+'</button><button type="button" class="lv-fs lv-fcb" id="lvFcB" data-vc="lvfc" aria-label="'+__('پیام‌ها','Messages')+'">'+LV_ICON.chat+'<em></em></button></div>'+
     '<div class="lv-tb" id="lvTb"></div>'+
     '<div class="lv-fc"><div class="vc-ch-hd"><b>'+__('پیام‌ها','Messages')+'</b><button type="button" class="lv-fcx" data-vc="lvfc" aria-label="'+__('بستن','Close')+'">'+LV_ICON.x+'</button></div><div class="vc-ch-l"></div>'+
     '<form class="vc-ch-f" autocomplete="off"><button type="button" class="vc-ch-p" data-vc="lvpoll" aria-label="'+__('نظرسنجی','Poll')+'">'+LV_ICON.poll+'</button><input type="text" maxlength="500" dir="auto" autocomplete="off" enterkeyhint="send" placeholder="'+__('پیام بنویس…','Write a message…')+'"><button type="submit" class="vc-ch-s" aria-label="'+__('ارسال','Send')+'"><svg viewBox="0 0 24 24" class="ic" aria-hidden="true"><path d="M3.5 11.5l16-7.5-5.2 16-3-6.3z"/><path d="M11.3 13.7l3.4-3.4"/></svg></button></form></div></div>'+
@@ -18716,9 +19251,11 @@ function lvBuild(w){
   bar.insertBefore(mk('lvhand',LV_ICON.hand,__('دست','Hand'),1),mic);
   bar.insertBefore(mk('lvrx',LV_ICON.smile,__('واکنش','React'),1),mic);
   LV.cv=live.querySelector('#lvCv');LV.cx=LV.cv.getContext('2d');
-  LV.cv.addEventListener('pointerdown',lvDown);LV.cv.addEventListener('pointermove',lvMove);
-  LV.cv.addEventListener('pointerup',lvUp);LV.cv.addEventListener('pointercancel',lvUp);
-  lvRedraw();
+  LV.ptr={};LV.ign={};LV.gs=null;LV.pan=null;LV.z={s:1,x:0,y:0};LV.q=1;LV.zk='';LV.zv={s:1,cx:500,cy:500};LV.zw=0;
+  LV.cv.addEventListener('pointerdown',lvPDown);LV.cv.addEventListener('pointermove',lvPMove);
+  LV.cv.addEventListener('pointerup',lvPUp);LV.cv.addEventListener('pointercancel',lvPUp);
+  LV.cv.addEventListener('wheel',lvWheel,{passive:false});
+  lvRedraw();lvZUi();
 }
 /* full-screen board: native Fullscreen API when there is one, a fixed overlay otherwise (iPhone Safari) */
 function lvFsEl(){return document.fullscreenElement||document.webkitFullscreenElement||null}
@@ -18766,11 +19303,12 @@ function lvFcToggle(){
 /* fit the board into the room full screen leaves it (the chat panel takes a side or the bottom) */
 function lvFsFit(){
   var w=VC.w,bd=w&&w.querySelector('#lvBd'),cv=LV.cv;if(!bd||!cv)return;
-  if(!bd.classList.contains('fs')){cv.style.width='';cv.style.height='';return}
+  if(!bd.classList.contains('fs')){cv.style.width='';cv.style.height='';lvZRelayout();return}
   var cw=bd.querySelector('.lv-cvw');if(!cw)return;
   cv.style.width='0px';cv.style.height='0px';
   var W=cw.clientWidth,H=cw.clientHeight,r=LV_W/LV_H,wd=Math.min(W,H*r);
   cv.style.width=Math.floor(wd)+'px';cv.style.height=Math.floor(wd/r)+'px';
+  lvZRelayout();
 }
 window.addEventListener('resize',function(){if(lvFsOn())lvFsFit()});
 window.addEventListener('orientationchange',function(){setTimeout(function(){if(lvFsOn())lvFsFit()},250)});
@@ -18819,9 +19357,13 @@ function lvToolbar(){
   var h='',can=lvMeCanDraw(),host=vcIsHost();
   if(can){
     h+='<button type="button" class="lv-tl'+(LV.tool==='pen'?' on':'')+'" data-vc="lvtool" data-v="pen" aria-label="'+__('قلم','Pen')+'">'+LV_ICON.pen+'</button>';
-    h+='<button type="button" class="lv-tl'+(LV.tool==='eraser'?' on':'')+'" data-vc="lvtool" data-v="eraser" aria-label="'+__('پاک‌کن','Eraser')+'">'+LV_ICON.eraser+'</button>';
-    LV_COL.forEach(function(c){h+='<button type="button" class="lv-cl'+(LV.color===c&&LV.tool==='pen'?' on':'')+'" data-vc="lvcol" data-v="'+c+'" style="--c:'+c+'" aria-label="'+c+'"></button>'});
+    h+='<button type="button" class="lv-tl'+(LV.tool==='eraser'?' on':'')+'" data-vc="lvtool" data-v="eraser" aria-label="'+(LV.em?__('پاک‌کن خط‌به‌خط','Stroke eraser'):__('پاک‌کن','Eraser'))+'" title="'+(LV.em?__('پاک‌کن خط‌به‌خط: با لمس هر خط همان خط پاک می‌شود (دوبار لمس: پاک‌کن معمولی)','Stroke eraser: touch a line to erase all of it (double-tap: normal eraser)'):__('پاک‌کن معمولی (دوبار لمس: پاک‌کردن خط‌به‌خط)','Normal eraser (double-tap: erase a whole line at a touch)'))+'">'+(LV.em?LV_ICON.eraser2:LV_ICON.eraser)+'</button>';
+    h+='<button type="button" class="lv-tl'+(LV.tool==='pan'?' on':'')+'" data-vc="lvtool" data-v="pan" aria-label="'+__('جابه‌جایی تخته','Move the board')+'">'+LV_ICON.move+'</button>';
+    LV_COL.forEach(function(c,i){h+='<button type="button" class="lv-cl'+(LV.color===c&&(LV.tool==='pen'||LV.tool==='arrow')?' on':'')+'" data-vc="lvcol" data-i="'+i+'" data-v="'+c+'" style="--c:'+c+'" title="'+__('دوبار لمس: رنگ دلخواه','Double-tap: custom colour')+'" aria-label="'+c+'"></button>'});
+    h+='<button type="button" class="lv-tl'+(LV.tool==='arrow'?' on':'')+'" data-vc="lvtool" data-v="arrow" aria-label="'+__('فلش','Arrow')+'" title="'+__('فلش: بکش، جابه‌جا و بزرگ و کوچکش کن؛ دوبار لمس: رنگ','Arrow: draw it, move and resize it; double-tap: colour')+'">'+LV_ICON.arrow+'</button>';
+    if(LV.tool==='arrow'&&LV.sel&&LV.si[LV.sel])h+='<button type="button" class="lv-tl lv-del" data-vc="lvadel" aria-label="'+__('حذف فلش انتخاب‌شده','Delete the selected arrow')+'">'+LV_ICON.trash+'</button>';
     h+='<button type="button" class="lv-tl lv-wd" data-vc="lvw" aria-label="'+__('ضخامت','Width')+'"><i style="--s:'+Math.min(18,LV.w+2)+'px"></i></button>';
+    h+='<button type="button" class="lv-tl'+(LV.snap?' on':'')+'" data-vc="lvsnap" aria-label="'+__('اصلاح خودکار شکل','Auto-correct shapes')+'" title="'+__('اصلاح خودکار شکل (خط، دایره، مربع، مثلث)','Auto-correct shapes (line, circle, square, triangle)')+'">'+LV_ICON.shape+'</button>';
     h+='<button type="button" class="lv-tl" data-vc="lvundo" aria-label="'+__('برگرداندن','Undo')+'">'+LV_ICON.undo+'</button>';
     h+='<button type="button" class="lv-tl" data-vc="lvclear" aria-label="'+__('پاک کردن صفحه','Clear page')+'">'+LV_ICON.trash+'</button>';
   }else h+='<span class="lv-ro">'+__('فقط تماشا · برای نوشتن از سازنده اجازه بخواه','View only · ask the host to let you write')+'</span>';
@@ -18920,7 +19462,7 @@ function lvPaint(){
     bd.hidden=!LV.board;
     bd.classList.toggle('unr',!!VC.unread);
     if(!LV.board&&bd.classList.contains('fs'))lvFsToggle(false);
-    if(LV.board){var tb=w.querySelector('#lvTb'),h=lvToolbar();if(tb.dataset.h!==h){tb.dataset.h=h;tb.innerHTML=h}}
+    if(LV.board){var tb=w.querySelector('#lvTb'),h=lvToolbar();if(tb.dataset.h!==h){tb.dataset.h=h;tb.innerHTML=h}lvZUi();if(LV.cv&&LV.cv.offsetWidth&&LV.zw!==LV.cv.offsetWidth)lvZRelayout()}
   }
   /* buttons */
   var q=function(k){return w.querySelector('[data-vc="'+k+'"]')};
@@ -19002,10 +19544,29 @@ function lvClick(k,b){
       m.innerHTML=LV_RX.map(function(e){return '<button type="button" data-vc="lvfx" data-v="'+e+'">'+LV_RXI[e]+'</button>'}).join('');
       w.querySelector('.vc-sheet').appendChild(m);return true}
     case 'lvfx':lvReact(b.dataset.v);return true;
-    case 'lvtool':LV.tool=b.dataset.v;lvPaint();return true;
-    case 'lvcol':LV.color=b.dataset.v;LV.tool='pen';lvPaint();return true;
+    case 'lvtool':{
+      var tv=b.dataset.v,tn=Date.now();
+      if(tv==='eraser'){
+        if(LV.leT&&tn-LV.leT<450){
+          LV.leT=0;LV.em=LV.em?0:1;lvEmSave();
+          toast(LV.em?__('پاک‌کن خط‌به‌خط: با لمس هر خط، همان خط کامل پاک می‌شود','Stroke eraser: touch a line and all of that line is erased'):__('پاک‌کن معمولی: هرجا بکشی همان‌جا پاک می‌شود','Normal eraser: it erases wherever you rub'),null,null,'info');
+        }else LV.leT=tn;
+      }
+      LV.tool=tv;lvRedraw();lvPaint();return true}
+    case 'lvadel':lvArrowDelete();return true;
+    case 'lvcol':{
+      var ci=+b.dataset.i,nw=Date.now();
+      if(LV_COL[ci]===undefined)return true;
+      if(LV.lcI===ci&&nw-(LV.lcT||0)<450){LV.lcT=0;LV.lcI=-1;lvColPick(ci);return true}   /* second tap: any colour */
+      LV.lcI=ci;LV.lcT=nw;LV.color=LV_COL[ci];if(LV.tool!=='arrow')LV.tool='pen';else lvArrowRecolor(LV.color);lvPaint();return true}
     case 'lvw':LV.w=LV.w===3?6:LV.w===6?14:3;lvPaint();return true;
     case 'lvfs':lvFsToggle();return true;
+    case 'lvzin':lvZStep(1.4);return true;
+    case 'lvzout':lvZStep(1/1.4);return true;
+    case 'lvzr':lvZReset(1);return true;
+    case 'lvsnap':LV.snap=LV.snap?0:1;lvSnapSave();
+      toast(LV.snap?__('اصلاح خودکار روشن شد؛ خط صاف و دایره، مربع و مثلث مرتب می‌شود','Auto-correct is on: lines, circles, squares and triangles are made neat'):__('اصلاح خودکار خاموش شد؛ برای مرتب کردن، آخر خط یک لحظه قلم را نگه دار','Auto-correct is off: hold the pen still at the end of a stroke to neaten it'),null,null,'info');
+      lvPaint();return true;
     case 'lvfc':lvFcToggle();return true;
     case 'lvpoll':lvPollOpen();return true;
     case 'lvpadd':{var po=w.querySelector('.vc-po');if(po){lvPollAddOpt(po);var li=po.lastElementChild;if(li)li.focus()}return true}
